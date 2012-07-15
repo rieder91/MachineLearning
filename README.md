@@ -8,12 +8,12 @@ _Coursera, taught by Andrew Ng_
  * Neural Network Learning
  * Regularized Linear Regression and Bias/Variance
  * Support Vector Machines
-
-
-### TODO
  * K-Means Clustering and PCA
  * Anomaly Detection and Recommender Systems
 
+
+### TODO
+ * Nothing
 
 
 ### How to contact me
